@@ -1,5 +1,7 @@
 # Snake Game in Ruby (Ruby2D)
-
+<p align="center">
+  <img width="480" alt="Snake" src="https://github.com/user-attachments/assets/04730c10-bc38-4b64-9589-661e0bb030c8" />
+</p>
 This is a simple Snake game built using Ruby and the Ruby2D library. The game features a moving snake that grows when it eats food, and the game ends if the snake collides with itself.
 
 ## Features
